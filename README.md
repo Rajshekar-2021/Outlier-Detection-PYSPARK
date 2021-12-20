@@ -1,4 +1,4 @@
-# Outlier-Removal-PYSPARK
+# Outlier-Detection-PYSPARK
  This repository shows, how to identify and remove the outliers using Pyspark
  
 ### The dataset is collected from https://archive.ics.uci.edu/ml/datasets/wholesale+customers
