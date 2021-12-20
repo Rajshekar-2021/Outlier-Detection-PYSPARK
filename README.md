@@ -40,3 +40,6 @@
 1. Comparing the outliers from the original dataset to the new dataset after outlier removal using a box plot
 1. There are still some outliers available in the dataset., even after removing majority of the outliers.
 1. This shows that the data is skewed, however, the majority of the outliers are removed
+
+![image](https://user-images.githubusercontent.com/90382338/146808253-8e088387-df8b-434f-89c6-af258174286a.png)
+
