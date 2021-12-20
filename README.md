@@ -1,8 +1,8 @@
 # Outlier-Removal-PYSPARK
  This repository shows, how to identify and remove the outliers using Pyspark
 
-The initial dataset contains 440 records with 8 features
-There are total 6 numerical features & 2 categorical features
+1. The initial dataset contains 440 records with 8 features
+1. There are total 6 numerical features & 2 categorical features
 The original spark dataframe has the datatypes of strings
 The numerical features were converted into IntegerType using cast function
 Created a customized function to identify outliers in each record
